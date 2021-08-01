@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the A* algorithm implementation for route planning on a IO2D map. An example of the results from running the project is shown belown:
+This repo contains the A* algorithm implementation (for more information on the A* algorithm, please visit: https://en.wikipedia.org/wiki/A*_search_algorithm) for route planning on a IO2D map. An example of the results from running the project is shown belown:
 
 <img src="map.png" width="600" height="450" />
 Here, the start point is indicated by the green marker, and the end by the red. The A* algorithm constructs the shortest path along the roads between these two user-defined points.
