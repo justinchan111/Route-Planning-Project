@@ -5,16 +5,6 @@ This repo contains the A* algorithm implementation (for more information on the 
 <img src="map.png" width="600" height="450" />
 Here, the start point is indicated by the green marker, and the end by the red. The A* algorithm constructs the shortest path along the roads between these two user-defined points.
 
-## Cloning
-
-When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
-```
-git clone https://github.com/udacity/CppND-Route-Planning-Project.git --recurse-submodules
-```
-or with SSH:
-```
-git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-submodules
-```
 
 ## Dependencies for Running Locally
 * cmake >= 3.11.3
