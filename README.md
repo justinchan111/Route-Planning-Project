@@ -6,7 +6,7 @@ This repo contains the A* algorithm implementation (for more information on the 
 Here, the start point is indicated by the green marker, and the end by the red. The A* algorithm constructs the shortest path along the roads between these two user-defined points.
 
 
-## Dependencies for Running Locally
+## Dependencies
 * cmake >= 3.11.3
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
 * make >= 4.1 (Linux, Mac), 3.81 (Windows)
